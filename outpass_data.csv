@@ -1,0 +1,49 @@
+Name,Register Number,Reason,Date,Return Time,Submitted At,Status,AI Analysis,Sentiment Score,Subjectivity Score,Departure Time,Expected Return,Actual Return,Outpasses Today_x,Outpasses Today_y
+sujith,130722243026,"i need to go for shopping 
+",2025-04-17,13:37,2025-04-17 13:37:47,Approved,Pending,0.0,0.0,,,,,
+student1,22340,"going to eat 
+",2025-04-17,,2025-04-17 13:48:36,Auto-Approved,,,,13:48,19:00,Not Returned Yet,1.0,3.0
+student1,22340,going to barber shop ,2025-04-17,,2025-04-17 13:57:26,Auto-Approved,Auto-Approved,,,13:57,19:00,Not Returned Yet,1.0,3.0
+student1,22340,going to barber shop,2025-04-17,,2025-04-17 13:59:29,Auto-Approved,Auto-Approved,,,13:59,19:00,Not Returned Yet,1.0,3.0
+student1,22340,going for a hair cut ,2025-04-17,,2025-04-17 14:28:03,Pending,Pending Review,,,14:28,19:00,Not Returned Yet,1.0,3.0
+student1,22340,"going for a haircut 
+",2025-04-17,,2025-04-17 14:33:29,Auto-Approved,Auto-Approved,,,14:33,19:00,Not Returned Yet,1.0,3.0
+student1,22340,going for hair cut ,2025-04-17,,2025-04-17 14:35:16,Pending,Pending Review,,,14:35,19:00,Not Returned Yet,1.0,3.0
+student1,22340,"going for a haricut 
+",2025-04-17,,2025-04-17 14:38:55,Pending,Pending Review,,,14:38,19:00,Not Returned Yet,1.0,3.0
+student1,22340,going for barber shop,2025-04-17,,2025-04-17 14:40:15,Auto-Approved,Auto-Approved,,,14:40,19:00,Not Returned Yet,1.0,3.0
+student1,22340,"going for shop
+",2025-04-17,,2025-04-17 14:41:14,Pending,Pending Review,,,14:41,19:00,Not Returned Yet,1.0,3.0
+student1,22340,"going for haircut 
+",2025-04-17,,2025-04-17 14:47:15,Auto-Approved,Auto-Approved,,,14:47,19:00,Not Returned Yet,1.0,3.0
+student1,22340,going to barber shop,2025-04-17,,2025-04-17 14:55:57,Auto-Approved,Auto-Approved,,,14:55,19:00,Not Returned Yet,1.0,3.0
+student1,130722243026,going for shop,2025-04-17,,2025-04-17 14:59:31,Pending,Pending Review,,,14:59,19:00,Not Returned Yet,,
+sujith,130722243026,im going to haircut ,2025-04-17,,2025-04-17 20:55:43,Auto-Approved,Auto-Approved,,,20:55,19:00,Not Returned Yet,,
+sujith,22340,going to haircut ,2025-04-17,,2025-04-17 21:30:47,Auto-Approved,Auto-Approved,,,21:30,20:00,Not Returned Yet,1.0,3.0
+sujith,22340,going for haircut,2025-04-17,,2025-04-17 21:45:15,Auto-Approved,Auto-Approved,,,21:45,18:45,Not Returned Yet,1.0,3.0
+sujith,130722243026,going for haircut ,2025-04-17,,2025-04-17 21:49:12,Auto-Approved,Auto-Approved,,,21:49,19:00,Not Returned Yet,,
+sujith,130722243026,going to shopping,2025-04-17,,2025-04-17 21:52:16,Auto-Approved,Auto-Approved,,,21:52,19:00,Not Returned Yet,,
+sujith,130722243026,going for shop,2025-04-17,,2025-04-17 21:54:48,Pending,Pending Review,,,21:54,19:00,Not Returned Yet,,
+sujith,22340,going for shop,2025-04-17,,2025-04-17 22:02:33,Pending,Pending Review,0.0,0.0,22:02,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,going for shop,2025-04-17,,2025-04-17 22:04:04,Pending,Pending Review,0.0,0.0,22:04,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,going for shopping ,2025-04-18,,2025-04-18 11:26:15,Auto-Approved,Auto-Approved,1.0,0.1,11:26,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,"going to shopping 
+",2025-04-18,,2025-04-18 11:34:23,Auto-Approved,Auto-Approved,1.0,0.1,11:34,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,going for shopping ,2025-04-18,,2025-04-18 11:39:44,Auto-Approved,Auto-Approved,1.0,0.1,11:39,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,going for shopping ,2025-04-18,,2025-04-18 11:43:43,Auto-Approved,Auto-Approved,1.0,0.1,11:43,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,going for shopping ,2025-04-18,,2025-04-18 11:58:05,Auto-Approved,Auto-Approved,1.0,0.1,11:58,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,"going for haircut 
+",2025-04-18,,2025-04-18 18:34:39,Auto-Approved,Auto-Approved,1.0,0.1,18:34,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,"going for haircut 
+",2025-04-18,,2025-04-18 18:46:12,Auto-Approved,Auto-Approved,1.0,0.1,18:46,19:00,2025-04-18 18:46:18,1.0,3.0
+sujith,22340,going for haircut ,2025-04-18,,2025-04-18 18:55:27,Auto-Approved,Auto-Approved,1.0,0.1,18:55,19:00,2025-04-18 18:55:40,1.0,3.0
+sujith,22340,"going for haircut 
+",2025-04-18,,2025-04-18 18:57:14,Auto-Approved,Auto-Approved,1.0,0.1,18:57,19:00,2025-04-18 19:02:32,1.0,3.0
+sujith,22340,going for shop,2025-04-18,,2025-04-18 19:03:45,Pending,Pending Review,0.0,0.0,19:03,19:00,Not Returned Yet,1.0,3.0
+sujith,22340,"going for shop
+",2025-04-21,,2025-04-21 12:45:04,Pending,Pending Review,0.0,0.0,12:45,19:00,2025-04-21 12:45:23,1.0,3.0
+sujith,22340,"shopping
+",2025-04-21,,2025-04-21 12:54:05,Auto-Approved,Auto-Approved,1.0,0.1,12:54,19:00,Not Returned Yet,,3.0
+sujith,22340,"going for haircut 
+",2025-04-21,,2025-04-21 16:07:07,Approved,Auto-Approved,1.0,0.1,16:07,19:00,2025-04-21 16:07:24,,3.0
+sujith,22340\,going for haircut ,2025-04-21,,2025-04-21 23:42:28,Auto-Approved,Auto-Approved,1.0,0.1,23:42,19:00,2025-04-21 23:42:54,,
